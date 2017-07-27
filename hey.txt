@@ -1,1 +1,5 @@
 wesh gros 
+<<<<<<< HEAD
+=======
+Bien ou quoi ?
+>>>>>>> 6abbda3c82bf0d3eb149b09ed4c005392f4cdc2a
